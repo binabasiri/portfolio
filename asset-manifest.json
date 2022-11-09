@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/binabasiri/static/css/main.1634d7c5.css",
+    "main.js": "/binabasiri/static/js/main.a07882d6.js",
+    "static/js/787.fb771931.chunk.js": "/binabasiri/static/js/787.fb771931.chunk.js",
+    "static/media/I'm in.svg": "/binabasiri/static/media/I'm in.6f50ffa7c48cce55ece5ca157a256771.svg",
+    "static/media/biz card.svg": "/binabasiri/static/media/biz card.02541a3c95de3d776b74b9fc7443b195.svg",
+    "static/media/world engine.svg": "/binabasiri/static/media/world engine.33f72e29d6d737d5dc89ee9ed245ceef.svg",
+    "static/media/Wordle.svg": "/binabasiri/static/media/Wordle.8fac7c0dc7f2c2d80b2ca4d7255e13b3.svg",
+    "static/media/Chesstamina.svg": "/binabasiri/static/media/Chesstamina.fb50ed0bd0aaa852a6c14f2b2bc8bfb5.svg",
+    "static/media/react.png": "/binabasiri/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/unity.png": "/binabasiri/static/media/unity.b196c776e313b0a0c14f.png",
+    "static/media/sqlite.png": "/binabasiri/static/media/sqlite.f05a612d02f52a49bcfe.png",
+    "static/media/csharp.png": "/binabasiri/static/media/csharp.5a45dfbe7dbab84acddf.png",
+    "static/media/mysql.png": "/binabasiri/static/media/mysql.6e42b2a035b28f240021.png",
+    "static/media/Lato-Regular.woff": "/binabasiri/static/media/Lato-Regular.77ca2742388f408c3be7.woff",
+    "static/media/Lato-Bold.woff": "/binabasiri/static/media/Lato-Bold.ba3a83adcb94357fc42f.woff",
+    "static/media/Lato-Black.woff": "/binabasiri/static/media/Lato-Black.efe7c183457352448e1e.woff",
+    "static/media/sass.png": "/binabasiri/static/media/sass.fd475502137c85de2bd0.png",
+    "static/media/Lato-Regular.woff2": "/binabasiri/static/media/Lato-Regular.39ac38d8a27bed2a16e4.woff2",
+    "static/media/Lato-Bold.woff2": "/binabasiri/static/media/Lato-Bold.ea8a923ec6d3ea7cf7bc.woff2",
+    "static/media/Lato-Black.woff2": "/binabasiri/static/media/Lato-Black.9280d87f151e453d884c.woff2",
+    "static/media/node.png": "/binabasiri/static/media/node.bc4b43cd5f20ba305059.png",
+    "static/media/css.png": "/binabasiri/static/media/css.84de5dab5fab27f4161c.png",
+    "static/media/postgre.png": "/binabasiri/static/media/postgre.6c5d698f195dac2fe5af.png",
+    "static/media/yarn.png": "/binabasiri/static/media/yarn.f51701f1f8ec4bb760c6.png",
+    "static/media/redux.png": "/binabasiri/static/media/redux.b3b939c66aecf7d53967.png",
+    "static/media/typescript.png": "/binabasiri/static/media/typescript.29073194eeda5803e7f3.png",
+    "index.html": "/binabasiri/index.html",
+    "main.1634d7c5.css.map": "/binabasiri/static/css/main.1634d7c5.css.map",
+    "main.a07882d6.js.map": "/binabasiri/static/js/main.a07882d6.js.map",
+    "787.fb771931.chunk.js.map": "/binabasiri/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1634d7c5.css",
+    "static/js/main.a07882d6.js"
+  ]
+}
