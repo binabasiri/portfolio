@@ -1,0 +1,41 @@
+@font-face {
+  font-family: lato;
+  font-weight: 400;
+  src: url('../assets/fonts/Lato-Regular.woff');
+  src: url('../assets/fonts/Lato-Regular.woff2');
+}
+@font-face {
+  font-family: lato;
+  font-weight: 500;
+  src: url('../assets/fonts/Lato-Regular.woff');
+  src: url('../assets/fonts/Lato-Regular.woff2');
+}
+@font-face {
+  font-family: lato;
+  font-weight: 600;
+  src: url('../assets/fonts/Lato-Bold.woff');
+  src: url('../assets/fonts/Lato-Bold.woff2');
+}
+@font-face {
+  font-family: lato;
+  font-weight: 700;
+  src: url('../assets/fonts/Lato-Black.woff');
+  src: url('../assets/fonts/Lato-Black.woff2');
+}
+
+.App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: lato;
+  background-color: #ebf4ff;
+  color: #2e3838;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
