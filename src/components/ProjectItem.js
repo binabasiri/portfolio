@@ -26,13 +26,13 @@ function ProjectItem({
         </div>
         <div className="project__features">
           <h2 className="project__info-header">About this project</h2>
-          <p>{description}</p>
+          <p className="project__text">{description}</p>
         </div>
         <div className="technologies">
           <h3 className="project__technologies">Technologies</h3>
           <ul>
             {technologies.map((tech) => {
-              return <li>{tech}</li>;
+              return <li className="project__text">{tech}</li>;
             })}
           </ul>
         </div>

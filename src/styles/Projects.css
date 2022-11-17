@@ -129,4 +129,31 @@
     flex-direction: column;
     align-items: center;
   }
+  .project__features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 75%;
+  }
+  .project__image {
+    margin: 0;
+  }
+  .project__button {
+    margin-bottom: 25px;
+  }
+  .technologies {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .project__info-header {
+    margin-bottom: 0;
+  }
+  .project__technologies {
+    margin-bottom: 0;
+  }
+  .project__text {
+    font-size: 14px;
+  }
 }
