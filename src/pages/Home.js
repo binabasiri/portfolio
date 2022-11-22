@@ -20,7 +20,7 @@ import javascriptIcon from '../assets/images/javascript.png';
 import csharpIcon from '../assets/images/csharp.png';
 import unityIcon from '../assets/images/unity.png';
 import expressIcon from '../assets/images/express.png';
-import Bounce from 'react-reveal/Bounce';
+import Fade from 'react-reveal/Fade';
 
 import '../styles/Home.css';
 
@@ -50,7 +50,7 @@ function Home({ skillsRef }) {
 
         <ol className="list">
           <h2 className="skills__sub-header"> Front-End</h2>
-          <Bounce left cascade>
+          <Fade left cascade>
             <div className="skill-container">
               <img className="skill-icon" src={htmlIcon} />
               <img className="css-icon" src={cssIcon} />
@@ -59,10 +59,10 @@ function Home({ skillsRef }) {
               <img className="skill-icon" src={sassIcon} />
               <img className="skill-icon" src={materialuiIcon} />
             </div>
-          </Bounce>
+          </Fade>
 
           <h2 className="skills__sub-header">Back-End</h2>
-          <Bounce right cascade>
+          <Fade right cascade>
             <div className="skill-container">
               <img className="skill-icon" src={nodeIcon} />
               <img className="skill-icon" src={postgreIcon} />
@@ -71,10 +71,10 @@ function Home({ skillsRef }) {
               <img className="skill-icon" src={mongoIcon} />
               <img className="skill-icon" src={expressIcon} />
             </div>
-          </Bounce>
+          </Fade>
 
           <h2 className="skills__sub-header">Other Skills</h2>
-          <Bounce left cascade>
+          <Fade left cascade>
             <div className="skill-container">
               <img className="skill-icon" src={gitIcon} />
               <img className="skill-icon" src={yarnIcon} />
@@ -83,7 +83,7 @@ function Home({ skillsRef }) {
               <img className="skill-icon" src={unityIcon} />
               <img className="skill-icon" src={typescriptIcon} />
             </div>
-          </Bounce>
+          </Fade>
         </ol>
       </div>
     </div>
