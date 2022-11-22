@@ -29,7 +29,7 @@ function Home({ skillsRef }) {
     <div className="home">
       <div className="about">
         <div className="typewriter">
-          <h2> Hi, My Name is "Bina".</h2>
+          <h2 className="about__typing"> Hi, My Name is "Bina".</h2>
         </div>
         <div className="prompt">
           <p>A full-stack software developer</p>

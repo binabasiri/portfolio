@@ -30,7 +30,7 @@ export const projects = [
     id: 2,
     image: BizCardImage,
     name: 'BizCard',
-    githubLink: 'https://github.com/binabasiri/BizCard',
+    githubLink: 'https://github.com/binabasiri/BizCard-Client',
 
     demoLink: '',
 
