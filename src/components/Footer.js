@@ -1,5 +1,5 @@
 import React from 'react';
-import TwitterIcon from '@material-ui/icons/Twitter';
+
 import GitHubIcon from '@material-ui/icons//GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import EmailIcon from '@material-ui/icons/Email';
@@ -9,9 +9,6 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="https://twitter.com/BasiriBina">
-          <TwitterIcon />
-        </a>
         <a href="https://github.com/binabasiri">
           <GitHubIcon />
         </a>

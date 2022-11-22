@@ -2,7 +2,7 @@
   width: 100%;
   align-items: center;
   font-family: 'lato';
-  color: #2e3838;
+  color: #05445e;
   /* margin-bottom: ; */
 }
 
@@ -14,14 +14,14 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: #2e3838;
-  color: #f0f0f0;
+  background-color: #05445e;
+  color: #d4f1f4;
   min-height: 100vh;
 }
 .typewriter h2 {
   color: #fff;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: 0.15em solid #fff275; /* The typwriter cursor */
+  border-right: 0.15em solid #75e6da; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto;
   /* Gives that scrolling effect as the typing happens */
@@ -46,14 +46,14 @@
     border-color: transparent;
   }
   50% {
-    border-color: #fff275;
+    border-color: #75e6da;
   }
 }
 
 .about h2 {
   font-family: 'lato';
   font-size: 80px;
-  color: #fff275;
+  color: #75e6da;
   /* height: 50px; */
 }
 
@@ -74,8 +74,8 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: #3d8f70;
-  color: #2e3838;
+  background-color: #189ab4;
+  color: #05445e;
   padding-bottom: 6rem;
 }
 .skills__header {
