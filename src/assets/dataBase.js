@@ -1,8 +1,8 @@
-import iminImage from "../assets/images/I'm in.svg";
+import iminImage from "../assets/images/I'm in.jpg";
 import chesstaminaImage from '../assets/images/Chesstamina.svg';
-import wordleImage from '../assets/images/Wordle.svg';
-import BizCardImage from '../assets/images/biz card.svg';
-import worldEngineImage from '../assets/images/world engine.svg';
+import wordleImage from '../assets/images/Wordle.png';
+import BizCardImage from '../assets/images/biz card.png';
+import worldEngineImage from '../assets/images/World Engine.png';
 
 export const projects = [
   {

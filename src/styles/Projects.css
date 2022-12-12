@@ -143,6 +143,7 @@
   }
   .project__image {
     margin: 0;
+    height: 12vh;
   }
   .project__button {
     margin-bottom: 25px;
