@@ -1,4 +1,4 @@
-import iminImage from "../assets/images/I'm in.jpg";
+import iminImage from "../assets/images/I'm in.png";
 import chesstaminaImage from '../assets/images/Chesstamina.svg';
 import wordleImage from '../assets/images/Wordle.png';
 import BizCardImage from '../assets/images/biz card.png';

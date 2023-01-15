@@ -24,7 +24,13 @@ function Navbar({ executeScroll, aboutRef, projectsRef, skillsRef }) {
         <span className="nav-links" onClick={() => executeScroll(projectsRef)}>
           Projects
         </span>
-        <a className="nav-links">Resume</a>
+        <a
+          href="https://drive.google.com/file/d/1Lihkg-foF8U488rEm8tKVu0Oz8k20BPZ/view?usp=sharing"
+          className="nav-links"
+          target="_blank"
+        >
+          Resume
+        </a>
       </div>
     </div>
   );
