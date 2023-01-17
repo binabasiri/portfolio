@@ -19,22 +19,24 @@ function ProjectItem({
       //   navigate('/project/' + id);
       // }}
     >
-      <h1 className="project__name"> {name} </h1>
+      <h2 className="project__name gradient-text"> {name} </h2>
       <div className="project__info">
         <div className="project__image-container">
           <img src={image} className="project__image" />
         </div>
-        <div className="project__features">
-          <h2 className="project__info-header">About this project</h2>
-          <p className="project__text">{description}</p>
-        </div>
-        <div className="technologies">
-          <h3 className="project__technologies">Technologies</h3>
-          <ul>
-            {technologies.map((tech) => {
-              return <li className="project__text">{tech}</li>;
-            })}
-          </ul>
+        <div className='project-text-container'>
+          <div className="project__features">
+            <h3 className="project__info-header">About this project</h3>
+            <p className="project__text">{description}</p>
+          </div>
+          <div className="technologies">
+            <h3 className="project__technologies">Technologies</h3>
+            <ul>
+              {technologies.map((tech) => {
+                return <li className="project__text">{tech}</li>;
+              })}
+            </ul>
+          </div>
         </div>
       </div>
       <div>
