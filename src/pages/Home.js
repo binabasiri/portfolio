@@ -35,7 +35,7 @@ function Home({ skillsRef }) {
           <p>A full-stack software developer</p>
 
           <a href="https://www.linkedin.com/in/bina-basiri/" target="_blank">
-            <LinkedInIcon />
+            <LinkedInIcon sx={{fontSize: '20px'}} fontSize='large'/>
           </a>
           <a href="mailto:bina712010@gmail.com" target="_blank">
             <EmailIcon />
@@ -49,7 +49,7 @@ function Home({ skillsRef }) {
         <h1 className="skills__header"> Skills</h1>
 
         <ol className="list">
-          <h2 className="skills__sub-header"> Front-End</h2>
+          <h2 className="skills__sub-header gradient-text"> Front-End</h2>
           <Fade left cascade>
             <div className="skill-container">
               <img className="skill-icon" src={htmlIcon} />
@@ -61,7 +61,7 @@ function Home({ skillsRef }) {
             </div>
           </Fade>
 
-          <h2 className="skills__sub-header">Back-End</h2>
+          <h2 className="skills__sub-header gradient-text">Back-End</h2>
           <Fade right cascade>
             <div className="skill-container">
               <img className="skill-icon" src={nodeIcon} />
@@ -73,7 +73,7 @@ function Home({ skillsRef }) {
             </div>
           </Fade>
 
-          <h2 className="skills__sub-header">Other Skills</h2>
+          <h2 className="skills__sub-header gradient-text">Other Skills</h2>
           <Fade left cascade>
             <div className="skill-container">
               <img className="skill-icon" src={gitIcon} />

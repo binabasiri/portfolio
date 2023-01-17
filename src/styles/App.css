@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 @font-face {
   font-family: lato;
   font-weight: 400;
@@ -28,7 +30,7 @@
   height: auto;
   display: flex;
   flex-direction: column;
-  font-family: lato;
+  font-family: 'Poppins';
   background-color: #ebf4ff;
   color: #05445e;
 }
@@ -38,4 +40,45 @@ html {
 body {
   padding: 0;
   margin: 0;
+}
+
+h1 {
+  margin-block-end: 0;
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-block-end: 0;
+  width: fit-content;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-block-end: 0;
+}
+
+ul {
+  margin-block-start: 0.6rem;
+}
+
+ol {
+  margin-block-start: 0;
+}
+
+p {
+  margin-block-start: 0.6rem
+}
+
+li {
+  color: #595858;
+}
+
+.gradient-text {
+  background: linear-gradient( 90deg, #05445e 0%, #15badc 100% );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

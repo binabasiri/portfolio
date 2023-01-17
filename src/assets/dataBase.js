@@ -16,7 +16,7 @@ export const projects = [
     websiteLink: '',
 
     description:
-      "I'm in is a trip planner application made for travelers to make their trip planning easier and more fun. Travellers can make thier accounts, choose their destinations, choose their faviorit restaurants and tourist attractions among the top suggested restaurants and tourist attractions, specify the date they're wishing to travel and share their card with other users.",
+      "I'm in is a trip planner application made for travelers to make their trip planning easier and more fun. Travellers can make thier accounts, choose their destinations, choose their favorite restaurants and tourist attractions among the top suggested restaurants and tourist attractions, specify the date they're wishing to travel and share their card with other users.",
     technologies: [
       'React',
       'SASS',
