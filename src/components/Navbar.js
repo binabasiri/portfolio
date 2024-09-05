@@ -25,7 +25,7 @@ function Navbar({ executeScroll, aboutRef, projectsRef, skillsRef }) {
           Projects
         </span>
         <a
-          href="https://drive.google.com/file/d/1Lihkg-foF8U488rEm8tKVu0Oz8k20BPZ/view?usp=sharing"
+          href="https://drive.google.com/file/d/1UIfpo4s4RXPLZp5fJRTXF-efphoRcy94/view?usp=drive_link"
           className="nav-links"
           target="_blank"
         >
